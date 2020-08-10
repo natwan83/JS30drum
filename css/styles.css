@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+    background: url("https://i.pinimg.com/originals/80/b2/96/80b296255b268bddcd8ae23c1927923c.jpg") bottom center;
     background-size: cover;
   }
   
@@ -8,6 +8,7 @@ html {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    
   }
   
   .keys {
